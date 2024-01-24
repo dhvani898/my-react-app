@@ -22,7 +22,7 @@ git clone https://github.com/dhvani898/react_app.git
 Navigate to the project directory and install the necessary dependencies using the following commands:
 
 ```bash
-cd react_app
+cd my-react-app
 npm install
 ```
 
